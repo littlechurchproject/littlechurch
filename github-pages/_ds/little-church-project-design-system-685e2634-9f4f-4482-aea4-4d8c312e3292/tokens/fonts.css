@@ -1,0 +1,6 @@
+/* IBM Plex Mono — numerals and token labels only. @import must precede @font-face. */
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap");
+/* Little Church Project — webfonts, trimmed to only the weights this page uses (GitHub Pages deploy copy). */
+@font-face{font-family:"Pyeojin Gothic";font-style:normal;font-weight:700;font-display:swap;src:url("../assets/fonts/PyeojinGothic-Bold.otf") format("opentype")}
+@font-face{font-family:"Paperlogy";font-style:normal;font-weight:400;font-display:swap;src:url("../assets/fonts/Paperlogy-4Regular.ttf") format("truetype")}
+@font-face{font-family:"Paperlogy";font-style:normal;font-weight:700;font-display:swap;src:url("../assets/fonts/Paperlogy-7Bold.ttf") format("truetype")}
