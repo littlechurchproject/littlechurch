@@ -1,0 +1,9 @@
+:root{
+  --radius-1:4px;    /* tags, tiny chips */
+  --radius-2:8px;    /* inputs, buttons */
+  --radius-3:14px;   /* cards */
+  --radius-4:22px;   /* feature panels, sheets */
+  --radius-pill:999px;
+  --border-hairline:1px;
+  --border-strong:2px;
+}
