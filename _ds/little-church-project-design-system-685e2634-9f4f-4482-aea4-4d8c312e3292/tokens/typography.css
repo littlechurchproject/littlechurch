@@ -1,0 +1,31 @@
+:root{
+  --font-display:"Pyeojin Gothic","Paperlogy",'Apple SD Gothic Neo',system-ui,sans-serif;
+  --font-round:"A2G","Paperlogy",'Apple SD Gothic Neo',system-ui,sans-serif;
+  --font-body:"Paperlogy","Pyeojin Gothic",'Apple SD Gothic Neo',system-ui,sans-serif;
+  --font-mono:"IBM Plex Mono",ui-monospace,monospace;
+
+  --fs-display-1:56px; --fs-display-2:42px; --fs-display-3:32px;
+  --fs-title-1:26px;   --fs-title-2:21px;   --fs-title-3:18px;
+  --fs-body-lg:18px;   --fs-body:16px;      --fs-body-sm:14px;
+  --fs-caption:13px;   --fs-micro:11px;
+
+  --lh-tight:1.2; /* @kind font */
+  --lh-title:1.35; /* @kind font */
+  --lh-body:1.75; /* @kind font */
+  --lh-loose:1.95; /* @kind font */
+
+  --fw-light:300; /* @kind font */
+  --fw-regular:400; /* @kind font */
+  --fw-medium:500; /* @kind font */
+  --fw-bold:700; /* @kind font */
+  --fw-black:900; /* @kind font */
+  /* Display weight: Pyeojin Gothic Bold — real weights, no synthetic bold */
+  --fw-display:700; /* @kind font */
+
+  /* Korean text needs looser tracking at small sizes, tighter at display sizes */
+  --ls-display:-0.03em; /* @kind font */
+  --ls-title:-0.01em; /* @kind font */
+  --ls-body:0; /* @kind font */
+  --ls-label:0.02em; /* @kind font */
+  --ls-eyebrow:0.16em; /* @kind font */
+}
