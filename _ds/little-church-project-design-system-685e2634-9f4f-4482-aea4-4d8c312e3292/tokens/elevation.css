@@ -1,0 +1,11 @@
+:root{
+  /* Shadows are warm-tinted (brown, never neutral grey) and very soft —
+     the brand reads as paper resting on paper, not glass floating in space. */
+  --shadow-0:none;
+  --shadow-1:0 1px 2px rgba(62,44,34,.06);
+  --shadow-2:0 2px 8px rgba(62,44,34,.08);
+  --shadow-3:0 8px 24px rgba(62,44,34,.10);
+  --shadow-4:0 18px 44px rgba(62,44,34,.14);
+  --shadow-inset:inset 0 1px 0 rgba(255,255,255,.7);
+  --ring-focus:0 0 0 3px rgba(188,97,73,.28);
+}
